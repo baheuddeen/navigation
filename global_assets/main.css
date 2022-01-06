@@ -8838,6 +8838,12 @@ transform: translateY(-10%);
 .osh-mm .hs-menu-depth-1 > a {
     padding-top: 30px;
 }
+
+
 .header-container-wrapper{
 height:110px;
+}@media (max-width: 992px) {
+    .header-container-wrapper{
+       display: none;
+    }
 }
