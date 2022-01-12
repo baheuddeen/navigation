@@ -8840,10 +8840,10 @@ transform: translateY(-10%);
 }
 
 
-.header-container-wrapper{
+/* .header-container-wrapper{
 height:110px;
 }@media (max-width: 992px) {
     .header-container-wrapper{
        display: none;
     }
-}
+} */
